@@ -1,0 +1,4 @@
+A bird with brown primary color and black underparts
+A bird with black color and long beak
+A bird with primary color as brown and underparts color as brown and upperparts color as brown
+A bird with underparts color as black and primary color as black
